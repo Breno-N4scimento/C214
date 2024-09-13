@@ -1,0 +1,9 @@
+{
+    "nome": "Chris",
+    "horarioDeAtendimento": "10:00-12:00",
+    "periodo": "integral",
+    "sala": "3",
+    "predio": [
+        "4"
+    ]
+}
